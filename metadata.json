@@ -1,0 +1,8 @@
+{
+  "name": "IKRA School & College ERP",
+  "description": "Comprehensive school and college ERP management system covering student admissions, rosters, class subjects, weekly routines, fee collection, dues, GPA marksheets, ID cards, certificates, and audit ledgers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
